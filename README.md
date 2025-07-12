@@ -1,5 +1,3 @@
-#Churn Prediction and Analysis Dashboard
-
 ## 📊 Project Overview
 
 This project focuses on predicting customer churn using machine learning and visualizing insights with a dynamic Power BI dashboard. It leverages a Random Forest Classifier to identify customers likely to leave and provides key churn insights across demographics, services, geography, and account information.
