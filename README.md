@@ -72,7 +72,7 @@ The Power BI dashboard provides a clean summary of churn analysis:
 - **Churn Distribution**: Reasons and Categories for churn
 
 > Screenshot of the dashboard:
-> ![Churn Dashboard](./dashboard/churn_analysis_summary.png)
+> ![Churn Dashboard]([./dashboard/churn_analysis_summary.png])
 
 ---
 
